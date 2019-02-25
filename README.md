@@ -18,3 +18,5 @@ unix
 
 只是为了学习`pub global`的使用方式
 
+可以结合[博客](https://www.kikt.top/posts/flutter/dart/bin/pub-global/)观看
+
