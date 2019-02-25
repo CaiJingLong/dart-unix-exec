@@ -1,5 +1,5 @@
 name: unix
-description: A simple get unix timestamp exec. Only support cli. 
+description: A simple get unix timestamp exec. Only support cli. use pub global to run.
 version: 1.0.0
 homepage: https://github.com/CaiJingLong/dart-unix-exec
 author: Caijinglong <cjl_spy@163.com>
