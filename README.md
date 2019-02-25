@@ -13,3 +13,8 @@ pub global activate unix
 ```bash
 unix
 ```
+
+## 说明
+
+只是为了学习`pub global`的使用方式
+
