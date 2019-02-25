@@ -1,8 +1,8 @@
 name: unix
-description: A sample command-line application.
-# version: 1.0.0
-# homepage: https://www.example.com
-# author: Caijinglong <email@example.com>
+description: A simple get unix timestamp exec. Only support cli. 
+version: 1.0.0
+homepage: https://github.com/CaiJingLong/dart-unix-exec
+author: Caijinglong <cjl_spy@163.com>
 
 environment:
   sdk: '>=2.1.0 <3.0.0'
